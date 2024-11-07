@@ -1,7 +1,7 @@
 # Sudoku-4x4
 
 ### What is Sudoku?
-Sudoku is a mathematical game, a puzzle in which playenumbers one to nine into a grid consisting of nine squares subdivided into a further nine smaller n such a way that every number once in each horizontal line, vertical line, and square. However, this version is annihilated to 4 grids with numbers 1 to 4.
+Sudoku is a mathematical game, a puzzle in which playenumbers one to nine into a grid consisting of nine squares subdivided into a further nine smaller n such a way that every number once in each horizontal line, vertical line, and square. However, this version is annihilated to 4 grid
 
 ### Language
 **C** language is used, and the game is played on console.
